@@ -10,9 +10,10 @@ They reached out to me looking to make their code more concise and less cluttere
 
 ## Usage
 
+Can visit the site and look at the company's services
+
 ![horiseon outlook example image](./assets/horiseon-outlook.png)
 
-Can visit the site and look at the company's services
 
 ## License
 
